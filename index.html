@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,6 +8,7 @@
     <link rel="shortcut icon" href="images/icons8-game-controller-96.png" type="image/x-icon">
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
     <main>
         <header class="header">
@@ -25,11 +27,18 @@
                 <hr>
                 <h1>Choose your option</h1>
                 <div class="images">
-                    <img  class="styleImage" src="images/paper.png" alt="Paper">
-                    <img  class="styleImage" src="images/rock.png" alt="Rock">
-                    <img  class="styleImage" src="images/scissors.png" alt="Scissors">
+                    <img id="p1" class="playerSelect styleImage" src="images/paper.png" alt="Paper">
+                    <img id="p2" class="playerSelect styleImage" src="images/rock.png" alt="Rock">
+                    <img id="p3" class="playerSelect styleImage" src="images/scissors.png" alt="Scissors">
+                </div>
+                
+                <div class="score">
+                    <p class="scoreText" id="playerScore">Your Score: 0</p>
+                    <p class="scoreText" id="computerScore">Computer Score: 0</p>
+
                 </div>
 
+                <h3 id="tie">Its a Tie</h3>
 
 
 
@@ -53,4 +62,5 @@
 
     <script src="script.js"></script>
 </body>
+
 </html>

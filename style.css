@@ -45,8 +45,28 @@ img:hover{
     border: 3px dashed black;
 }
 
+/* score */
 
+.score{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    flex-wrap: wrap;
+}
 
+.scoreText{
+    font-size: 18px;
+    margin-top: 10px;
+    margin-left: 2rem;
+}
+
+#tie{
+    display: none;
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+}
 
 
 /* Responsive styles  */
