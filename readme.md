@@ -1,7 +1,6 @@
 # Rock, Paper, Scissors Game
 
-![image](https://github.com/adiiverma40/RockPaperScissors/assets/146183407/5a426fa1-3174-4254-81bd-aa0336caacc3)
-
+![Rock, Paper, Scissors](https://github.com/adiiverma40/RockPaperScissors/assets/146183407/5a426fa1-3174-4254-81bd-aa0336caacc3)
 
 ## Overview
 
@@ -30,14 +29,7 @@ This is a simple yet fun Rock, Paper, Scissors game built using HTML, CSS, and J
 - CSS
 - JavaScript
 
-## Screenshots
-
-![image](https://github.com/adiiverma40/RockPaperScissors/assets/146183407/d1435221-0e2c-498c-8f42-3221e87a6ea1)
-![image](https://github.com/adiiverma40/RockPaperScissors/assets/146183407/3b10f172-f3e0-44bc-8beb-d66526cb1ab7)
-
 
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-
